@@ -2,6 +2,7 @@
   <div class="container mx-auto max-w-screen-sm">
     <header class="text-center my-4">
       <h1 class="text-4xl font-bold">ToDo App</h1>
+      <p>A simple todo application using vue</p>
     </header>
     <div class="my-8">
       <form @submit.prevent="formSubmit">
